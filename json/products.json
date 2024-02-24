@@ -1,0 +1,98 @@
+[
+    { 
+    "id":1,
+    "image":"images/14-1.jpg",
+    "name":"14 inch alloy",
+    "price":460,
+    "quantity":1,
+    "category":"alloys"
+  },
+  { 
+    "id":2,
+    "image":"images/16.jpg",
+    "name":"16 inch alloy",
+    "price":720,
+    "quantity":1,
+    "category":"alloys"
+  },
+  { 
+    "id":3,
+    "image":"images/18.jpg",
+    "name":"18 inch alloy",
+    "price":860,
+    "quantity":1,
+    "category":"alloys"
+  },
+  { 
+    "id":4,
+    "image":"images/20.jpg",
+    "name":"20 inch alloy",
+    "price":1120,
+    "quantity":1,
+    "category":"alloys"
+  },
+  { 
+    "id":5,
+    "image":"images/sl1.jpg",
+    "name":"spoiler type1",
+    "price":2000,
+    "quantity":1,
+    "category":"spoiler"
+  },
+  { 
+    "id":6,
+    "image":"images/sl2.jpg",
+    "name":"spoiler type2",
+    "price":2360,
+    "quantity":1,
+    "category":"spoiler"
+  },
+  { 
+    "id":7,
+    "image":"images/sl3.jpg",
+    "name":"spoiler type3",
+    "price":2200,
+    "quantity":1,
+    "category":"spoiler"
+  },
+  { 
+    "id":8,
+    "image":"images/sl4.jpg",
+    "name":"spoiler type4",
+    "price":2150,
+    "quantity":1,
+    "category":"spoiler"
+  },
+  { 
+    "id":9,
+    "image":"images/el1.jpg",
+    "name":"exhaust model 1",
+    "price":800,
+    "quantity":1,
+    "category":"exhaust"
+  },
+  { 
+    "id":10,
+    "image":"images/el2.jpg",
+    "name":"exhaust model 2",
+    "price":900,
+    "quantity":1,
+    "category":"exhaust"
+  },
+  { 
+    "id":11,
+    "image":"images/el3.jpg",
+    "name":"exhaust model 3",
+    "price":800,
+    "quantity":1,
+    "category":"exhaust"
+  },
+  { 
+    "id":12,
+    "image":"images/el4.jpg",
+    "name":"exhaust model 4",
+    "price":800,
+    "quantity":1,
+    "category":"exhaust"
+  }
+]
