@@ -9,7 +9,7 @@ const productrouter = require('./controllers/product')
 
 mongoose.set('strictQuery', false);
 
-mongoose.connect(config.URL)
+mongoose.connect(config.MONGO_URL)
 .then(() => {
   console.log('connected to mongodb')
 })
