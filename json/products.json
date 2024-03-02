@@ -9,7 +9,7 @@
   },
   { 
     "id":2,
-    "image":"/images/16.jpg",
+    "image":"./images/16.jpg",
     "name":"16 inch alloy",
     "price":720,
     "quantity":1,
