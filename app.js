@@ -7,6 +7,7 @@ const userrouter = require('./controllers/users');
 const loginrouter = require('./controllers/login')
 const productrouter = require('./controllers/product')
 const bookingrouter = require('./controllers/Booking')
+const orderrouter = require('./controllers/Order')
 
 mongoose.set('strictQuery', false);
 
@@ -23,6 +24,6 @@ app.use('/api/products',productrouter);
 app.use('/api/login',loginrouter);
 app.use('/api/users',userrouter);
 app.use('/api/booking',bookingrouter)
-
+app.use('/api/orders',orderrouter)
 
 module.exports =app;
