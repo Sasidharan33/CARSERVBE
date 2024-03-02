@@ -1,7 +1,7 @@
 [
     { 
     "id":1,
-    "image":"/images/14-1.jpg",
+    "image":"/src/images/14-1.jpg",
     "name":"14 inch alloy",
     "price":460,
     "quantity":1,
