@@ -24,7 +24,6 @@ const orderschema = new mongoose.Schema({
         district:String,
         postal_zip:Number  
     }
-    
 });
 
 const Orders = mongoose.model('Orders',orderschema,'orders')
